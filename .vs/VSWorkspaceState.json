@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\generator",
+    "\\generator\\migrations",
     "\\generator\\templates",
     "\\generator\\templates\\generator",
     "\\password_generator"
   ],
-  "SelectedNode": "\\generator\\views.py",
+  "SelectedNode": "\\generator\\templates\\generator\\home.html",
   "PreviewInSolutionExplorer": false
 }
